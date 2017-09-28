@@ -1,9 +1,7 @@
 language: csharp
 solution: simple-ci.sln
 dist: trusty
-
-install:
-  - dotnet restore
+mono: none
 
 script:
   - dotnet build

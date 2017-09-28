@@ -669,6 +669,9 @@
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
       "projectUniqueName": "C:\\Users\\kbowe\\Documents\\GitHub\\simple-ci\\simple-ci.csproj",
       "projectName": "simple-ci",
